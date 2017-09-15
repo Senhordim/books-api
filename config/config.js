@@ -2,7 +2,7 @@ export default {
 	database: 'books',
 	username: '',
 	password: '',
-	arams: {
+	params: {
 		dialect: 'sqlite',
 		storage: 'books.sqlite',
 		define: {
